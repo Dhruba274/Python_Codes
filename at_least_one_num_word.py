@@ -16,6 +16,6 @@ def checkString(str):
     return flag_l and flag_n
  
  
-# driver code
+
 print(checkString('thishasboth29'))
 print(checkString('7 Thala for a reason'))
